@@ -43,7 +43,7 @@ If you want to learn React in a simple way, seek no further. [Subscribe to our n
 
 ## License
 
-The project is licensed under the free MIT license. You can read more about it in the [LICENSE file](https://github.com/arkency/react_flux_alt_immutable_todolist/blob/master/LICENSE).
+The project is licensed under the free MIT license. You can read more about it in the [LICENSE file](https://github.com/arkency/react-testing-approaches/blob/master/LICENSE).
 
 ## About
 
